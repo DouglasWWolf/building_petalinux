@@ -1,0 +1,24 @@
+
+#forgot-password {
+    display:none;
+}
+
+.login-section form div#action-messages:after {
+    content: 'Please log in with your Roche credentials';
+    padding-left: 25px;
+}
+
+
+
+#confluence-roadmap-dialog
+
+{ width: 95%; height: 95%; top: 10px; }
+#confluence-roadmap-dialog .roadmap-editor-popup
+
+{ height: 89%; }
+#confluence-roadmap-dialog .aui-dialog2-content
+
+{ max-height: calc(100vh - 160px); }
+
+
+
